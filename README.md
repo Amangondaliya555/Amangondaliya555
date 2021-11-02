@@ -12,10 +12,10 @@ I am interested in Competitive Coding, Machine Learning and Web Development. Apa
 
 Checkout my profiles:
 <ul>
-  <li>Coding : ![CodeChef](https://www.codechef.com/users/aman555) & [LeetCode](https://leetcode.com/grunkleStan/)</li>
-  <li>Hacking : ![CTFTime](https://ctftime.org/team/81729)</li>
-  <li>Photography : ![Instagram](https://www.instagram.com/rioflotante/)</li>
-  <li>Blogs : ![Medium](https://medium.com//@amangondaliya555)</li>
+  <li>Coding : <a href="https://www.codechef.com/users/aman555">CodeChef</a> & <a href="https://leetcode.com/grunkleStan/">LeetCode</a></li>
+  <li>Hacking : <a href="https://ctftime.org/team/81729">CTFTime</a></li>
+  <li>Photography : <a href="https://www.instagram.com/rioflotante/">Instagram</a></li>
+  <li>Blogs : <a href="https://medium.com//@amangondaliya555">Medium</a></li>
 </ul>
 
 <!-- add coding profiles and ML profiles above.-->
