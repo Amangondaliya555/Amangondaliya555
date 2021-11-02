@@ -1,4 +1,4 @@
-[![Header](https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif)](https:/amangondaliya555.github.io/)
+[![Header](https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif)]
 
 ![](https://komarev.com/ghpvc/?username=Amangondaliya555)
 
@@ -12,10 +12,10 @@ I am interested in Competitive Coding, Machine Learning and Web Development. Apa
 
 Checkout my profiles:
 <ul>
-  <li>Coding : [CodeChef](https://www.codechef.com/users/aman555) & [LeetCode](https://leetcode.com/grunkleStan/)</li>
-  <li>Hacking : [CTFTime](https://ctftime.org/team/81729)</li>
-  <li>Photography : [Instagram](https://www.instagram.com/rioflotante/)</li>
-  <li>Blogs : [Medium](https://medium.com//@amangondaliya555)</li>
+  <li>Coding : ![CodeChef](https://www.codechef.com/users/aman555) & [LeetCode](https://leetcode.com/grunkleStan/)</li>
+  <li>Hacking : ![CTFTime](https://ctftime.org/team/81729)</li>
+  <li>Photography : ![Instagram](https://www.instagram.com/rioflotante/)</li>
+  <li>Blogs : ![Medium](https://medium.com//@amangondaliya555)</li>
 </ul>
 
 <!-- add coding profiles and ML profiles above.-->
