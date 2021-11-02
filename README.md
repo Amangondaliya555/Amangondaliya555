@@ -8,7 +8,7 @@ My name is Aman Gondaliya and I'm a Software Developement & Machine Learning ent
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also like writing a blogs - you can find my articles on my website at [amangondaliya555](https://amangondaliya555.github.io/) as well as on [Medium](https://medium.com//@amangondaliya555). I am also enthusiastic about photography. You can find some beautiful shots at my instagram page [rioflotante](https://www.instagram.com/rioflotante/). 
+Apart from coding, I also like writing blogs - you can find my articles on my website at [amangondaliya555](https://amangondaliya555.github.io/) as well as on [Medium](https://medium.com//@amangondaliya555). I am also enthusiastic about photography. You can find some beautiful shots at my instagram page [rioflotante](https://www.instagram.com/rioflotante/). 
 <!-- add coding profiles and ML profiles above.-->
 
 ## 🔧 Technologies & Tools
