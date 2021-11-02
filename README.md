@@ -4,11 +4,20 @@
 
 # Hello, Visitor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aman Gondaliya and I'm a Software Developement & Machine Learning enthusiastic. I'm from Junagadh, India and currently working at Nokia. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I am Aman Gondaliya. I am Graduate Engineer Trainee at Nokia. I studied Electronics and Communication Engineering from Sardar Vallabhbhai National Institute of Technology, Surat. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
+## &#x270d; Hobbies
 
-Apart from coding, I also like writing blogs - you can find my articles on my [Webpage](https://amangondaliya555.github.io/) as well as on [Medium](https://medium.com//@amangondaliya555). I am also enthusiastic about photography. You can find some beautiful shots at my [instagram](https://www.instagram.com/rioflotante/). 
+I am interested in Competitive Coding, Machine Learning and Web Development. Apart from tech, I am space enthusiastic and i like photography. I also like writing blogs. 
+
+Checkout my profiles:
+<ul>
+  <li>Coding : [CodeChef](https://www.codechef.com/users/aman555) & [LeetCode](https://leetcode.com/grunkleStan/)</li>
+  <li>Hacking : [CTFTime](https://ctftime.org/team/81729)</li>
+  <li>Photography : [Instagram](https://www.instagram.com/rioflotante/)</li>
+  <li>Blogs : [Medium](https://medium.com//@amangondaliya555)</li>
+</ul>
+
 <!-- add coding profiles and ML profiles above.-->
 
 ## 🔧 Technologies & Tools
