@@ -1,4 +1,5 @@
-![Header](https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif)[https://amangondaliya555.github.io]
+<a href="https://amangondaliya555.github.io" target="_blank"><img src="https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif"></a>
+![Header](https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif)
 
 ![](https://komarev.com/ghpvc/?username=Amangondaliya555)
 
