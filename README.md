@@ -1,5 +1,4 @@
 <a href="https://amangondaliya555.github.io" target="_blank"><img src="https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif"></a>
-![Header](https://github.com/Amangondaliya555/Amangondaliya555/blob/main/readme_banner.gif)
 
 ![](https://komarev.com/ghpvc/?username=Amangondaliya555)
 
@@ -48,6 +47,3 @@ Checkout my profiles:
 <a href="https://github.com/Amangondaliya555/Amangondaliya555">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amangondaliya555&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aman's GitHub Stats" />
 </a>
-
-
-
