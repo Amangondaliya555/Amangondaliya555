@@ -60,9 +60,9 @@ Apart from coding, I also like writing a blogs - you can find my articles on my 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/AmanGondaliya4
+[2]: https://github.com/Amangondaliya555
+[3]: https://www.linkedin.com/in/aman-gondaliya-219507a6
 
 
 <!-- Resources -->
