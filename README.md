@@ -14,7 +14,7 @@ Contact Me:
 
 ## &#x270d; Hobbies
 
-I am interested in Competitive Coding, Machine Learning and Web Development. Apart from tech, I am space enthusiastic and i like photography. I also like writing blogs. 
+I am interested in Competitive Coding, Machine Learning and Web Development. Apart from tech, I am space enthusiastic and I like photography. I also like writing blogs. 
 
 Checkout my profiles:
 <ul>
