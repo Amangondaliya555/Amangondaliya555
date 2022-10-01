@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Amangondaliya555)
 
-# Hello, Visitor! <div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script><img src="https://tenor.com/view/hi-gif-23520343" width="30px">
-
+# Hello, Visitor! <img src="https://tenor.com/view/hi-gif-23520343" width="30px">
+<div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 I am Aman Gondaliya. I am Graduate Engineer Trainee at Nokia. I studied Electronics and Communication Engineering from Sardar Vallabhbhai National Institute of Technology, Surat. 
 
 Contact Me:
