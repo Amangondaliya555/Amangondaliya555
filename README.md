@@ -8,8 +8,8 @@ I am Aman Gondaliya. I am Graduate Engineer Trainee at Nokia. I studied Electron
 
 Contact Me:
 <ul>
-  <li><img src="http://i.imgur.com/wWzX9uB.png"><a href="https://twitter.com/AmanGondaliya4" target="_blank">  Twitter</a></li>
-  <li><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"><a href="https://www.linkedin.com/in/aman-gondaliya-219507a6" target="_blank">  LinkedIn</a></li>
+  <li><img src="/beta/twitter.com"><a href="https://twitter.com/AmanGondaliya4" target="_blank">  Twitter</a></li>
+  <li><img src="/beta/linkedin.png"><a href="https://www.linkedin.com/in/aman-gondaliya-219507a6" target="_blank">  LinkedIn</a></li>
 </ul>
 
 ## &#x270d; Hobbies
@@ -46,4 +46,10 @@ Checkout my profiles:
 </a>
 <a href="https://github.com/Amangondaliya555/Amangondaliya555">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amangondaliya555&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aman's GitHub Stats" />
+</a>
+
+## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
+
+<a href="https://github.com/Amangondaliya555/Amangondaliya555">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amangondaliya555" alt="Aman's GitHub Stats" />
 </a>
