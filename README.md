@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Amangondaliya555)
 
-# Hello, Visitor! <img src="https://tenor.com/bKQSx.gif" width="30px">
+# Hello, Visitor! <img src="https://tenor.com/view/hi-gif-23520343" width="30px">
 
 I am Aman Gondaliya. I am Graduate Engineer Trainee at Nokia. I studied Electronics and Communication Engineering from Sardar Vallabhbhai National Institute of Technology, Surat. 
 
