@@ -8,7 +8,7 @@ I am Aman Gondaliya. I am Graduate Engineer Trainee at Nokia. I studied Electron
 
 Contact Me:
 <ul>
-  <li><img src="twitter.png"><a href="https://twitter.com/AmanGondaliya4" target="_blank">  Twitter</a></li>
+  <li><img src="https://www.flaticon.com/free-icon/twitter_733635?term=twitter%20logo&page=1&position=3&page=1&position=3&related_id=733635&origin=search"><a href="https://twitter.com/AmanGondaliya4" target="_blank">  Twitter</a></li>
   <li><img src="linkedin.png"><a href="https://www.linkedin.com/in/aman-gondaliya-219507a6" target="_blank">  LinkedIn</a></li>
 </ul>
 
