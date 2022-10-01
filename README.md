@@ -19,7 +19,7 @@ Checkout my profiles:
 <ul>
   <li>Coding : <a href="https://www.codechef.com/users/aman555" target="_blank">CodeChef</a> & <a href="https://leetcode.com/grunkleStan/">LeetCode</a></li>
   <li>Hacking : <a href="https://ctftime.org/team/81729" target="_blank">CTFTime</a></li>
-  <li>Photography : <a href="https://www.instagram.com/rioflotante/" target="_blank">Instagram</a></li>
+  <li>Photography : <a href="https://www.instagram.com/av3rag3_ph0t0graph3r/" target="_blank">Instagram</a></li>
   <li>Blogs : <a href="https://medium.com//@amangondaliya555" target="_blank">Medium</a></li>
 </ul>
 
