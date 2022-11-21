@@ -1,4 +1,4 @@
-<img src="/readme_banner.gif>
+<img src="/readme_banner.gif">
 
 ![](https://komarev.com/ghpvc/?username=Amangondaliya555)
 
