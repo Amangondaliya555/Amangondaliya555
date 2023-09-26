@@ -52,6 +52,4 @@ Checkout my profiles:
 
 ## ⏱ Streak Stats 
 
-<a href="https://github.com/Amangondaliya555/Amangondaliya555">
-  <img align="center" src="https://streak-stats-demolab.com/?user=Amangondaliya555" alt="Aman's GitHub Stats" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Amangondaliya555)](https://git.io/streak-stats)
