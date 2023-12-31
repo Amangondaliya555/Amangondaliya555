@@ -28,7 +28,7 @@ Checkout my profiles:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/visualstudiocode-IDE-blue.svg?logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCode-blue.svg?logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-blue.svg?style=flat&logo=go&logoColor=white&color=2bbc8a)
