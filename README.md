@@ -5,17 +5,16 @@
 # Hello, Visitor! <img src="https://user-images.githubusercontent.com/35319382/193395614-cefd9cc9-26c8-4afe-8807-c54f3e9893b5.gif" width="30px">
 
 
-I am Aman Gondaliya. I am Graduate Engineer Trainee at Nokia. I studied Electronics and Communication Engineering from Sardar Vallabhbhai National Institute of Technology, Surat. 
+I am Aman Gondaliya. I am a Developer at Nokia Portugal. I studied Electronics and Communication Engineering from Sardar Vallabhbhai National Institute of Technology, Surat. 
 
 Contact Me:
 <ul>
-  <li><img src="/twitter.png" width="16" height="16"><a href="https://twitter.com/AmanGondaliya4" target="_blank">  Twitter</a></li>
   <li><img src="/linkedin.png" width="16" height="16"><a href="https://www.linkedin.com/in/aman-gondaliya-219507a6" target="_blank">  LinkedIn</a></li>
 </ul>
 
 ## &#x270d; Hobbies
 
-I am interested in Competitive Coding, Machine Learning and Web Development. Apart from tech, I am space enthusiastic and I like photography. I also like writing blogs. 
+I am interested in Competitive Coding, Machine Learning, and Web Development. Apart from tech, I am space enthusiastic and I like photography. I also like writing blogs. 
 
 Checkout my profiles:
 <ul>
